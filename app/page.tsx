@@ -1,3 +1,10 @@
+import Navigation from "../componments/navigation";
+
 export default function Hello(){
-  return <h1>Hello~</h1>
+  return (
+    <div>
+      <Navigation/>
+      <h1>Hello</h1>
+    </div>
+  )
 }
