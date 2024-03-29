@@ -3,7 +3,7 @@ import Navigation from "../components/navigation";
 
 export const metadata = {
   title: {
-    template: "%s | Next",
+    template: "%s | Nextlix",
     default: "Loading..."
   },
   description: 'The best framework',
